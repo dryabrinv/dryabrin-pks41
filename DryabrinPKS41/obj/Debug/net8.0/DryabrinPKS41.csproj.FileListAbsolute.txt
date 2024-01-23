@@ -1,0 +1,14 @@
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\bin\Debug\net8.0\DryabrinPKS41.exe
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\bin\Debug\net8.0\DryabrinPKS41.deps.json
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\bin\Debug\net8.0\DryabrinPKS41.runtimeconfig.json
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\bin\Debug\net8.0\DryabrinPKS41.dll
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\bin\Debug\net8.0\DryabrinPKS41.pdb
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\DryabrinPKS41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\DryabrinPKS41.AssemblyInfoInputs.cache
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\DryabrinPKS41.AssemblyInfo.cs
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\DryabrinPKS41.csproj.CoreCompileInputs.cache
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\DryabrinPKS41.dll
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\refint\DryabrinPKS41.dll
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\DryabrinPKS41.pdb
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\DryabrinPKS41.genruntimeconfig.cache
+C:\Users\Drabr\source\repos\DryabrinPKS41\DryabrinPKS41\obj\Debug\net8.0\ref\DryabrinPKS41.dll
